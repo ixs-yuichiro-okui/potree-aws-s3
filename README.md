@@ -1,0 +1,1 @@
+# potree-aws-s3
